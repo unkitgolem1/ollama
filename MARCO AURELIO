@@ -1,0 +1,4 @@
+from ohllama import ia
+while True:
+  pregunta = str(input('TU:'))
+  ia()
